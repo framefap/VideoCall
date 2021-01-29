@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnsignup" type="id"/>
+    <item name="btnlogin" type="id"/>
+    <item name="txtpwd" type="id" />
+    <item name="txtemail" type="id" />
+    <item name="txtname" type="id" />
+</resources>
